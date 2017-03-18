@@ -40,7 +40,7 @@ public class Car {
     }
 
     public void increaseSpeed(int change) {
-        speed  = speed + change;
+        speed = speed + change;
     }
 
     public void decreaseSpeed(int change) {
