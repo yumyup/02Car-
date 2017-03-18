@@ -1,3 +1,6 @@
+package app;
+
+import model.Car;
 
 public class CarTest {
     public static void main(String[] args) {
